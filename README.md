@@ -63,4 +63,4 @@ Os dados são perdidos quando a aplicação é encerrada.
 
 ## para possível futuro
 
-- Implementar testes, que acabou não dando tempo
+- Implementar testes unitários utilizando Junit e mockito
