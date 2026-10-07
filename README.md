@@ -8,8 +8,6 @@ API REST para gerenciamento de cupons.
 * Spring Boot
 * Spring Data JPA
 * H2
-* JUnit 5
-* Mockito
 * Docker
 * Docker Compose
 * OpenAPI / Swagger
