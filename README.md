@@ -56,9 +56,3 @@ http://localhost:8080/swagger-ui.html
 A aplicação utiliza um banco de dados H2 em memória.
 
 Os dados são perdidos quando a aplicação é encerrada.
-
-
-
-## para possível futuro
-
-- Implementar testes unitários utilizando Junit e mockito
