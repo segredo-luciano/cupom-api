@@ -5,7 +5,7 @@ import java.time.Instant;
 import java.util.UUID;
 
 import com.cupom_api.application.domain.enums.CouponEnum;
-import com.cupom_api.application.domain.exeption.InvalidCouponException;
+import com.cupom_api.application.exeption.InvalidCouponException;
 
 import lombok.*;
 

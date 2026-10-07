@@ -1,4 +1,4 @@
-package com.cupom_api.application.domain.response;
+package com.cupom_api.application.response;
 
 import com.cupom_api.application.domain.Coupon;
 

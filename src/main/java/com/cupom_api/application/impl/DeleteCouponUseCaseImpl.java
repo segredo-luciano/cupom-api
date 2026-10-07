@@ -2,7 +2,7 @@ package com.cupom_api.application.impl;
 
 import com.cupom_api.application.DeleteCouponUseCase;
 import com.cupom_api.application.domain.Coupon;
-import com.cupom_api.application.domain.exeption.InvalidCouponException;
+import com.cupom_api.application.exeption.InvalidCouponException;
 import com.cupom_api.application.CouponRepository;
 
 import java.util.UUID;

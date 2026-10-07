@@ -1,4 +1,4 @@
-package com.cupom_api.application.domain.exeption;
+package com.cupom_api.application.exeption;
 
 public class InvalidCouponException extends RuntimeException {
 

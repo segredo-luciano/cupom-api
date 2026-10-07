@@ -1,4 +1,4 @@
-package com.cupom_api.application.domain.request;
+package com.cupom_api.application.request;
 
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;
